@@ -3,8 +3,8 @@ I solve problems on leetcode, post solutions here: src/easy - easy tasks, src/me
 
 **Solved: 118**
 
-**Easy:     54**
+**Easy:     56**
 
 **Medium:   54**
 
-**Hard:     10**
+**Hard:     12**
